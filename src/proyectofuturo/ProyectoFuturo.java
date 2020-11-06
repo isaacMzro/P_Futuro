@@ -14,9 +14,10 @@ public class ProyectoFuturo {
     /**
      * @param args the command line arguments
      */
+    //ISAAC MANZANARO CALVO
     public static void main(String[] args) {
         System.out.println("Estudiante " + args[0] + " : ");
-
+        
     }
     public static String veredicto(String valor1, String valor2) {
            if (valor1.equals(valor2)) {
